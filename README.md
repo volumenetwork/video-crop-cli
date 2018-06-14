@@ -13,7 +13,7 @@ or
 ## Usage
 
 ```
-$ video-link --help
+$ video-crop --help
 
   Usage: index [options] <inputFile> <outputFile>
 
