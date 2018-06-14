@@ -1,6 +1,6 @@
 {
   "name": "video-crop-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "git@github.com:volumenetwork/video-crop-cli.git",
   "author": "James Irving-Swift <james@irving-swift.com>",
