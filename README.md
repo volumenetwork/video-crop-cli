@@ -24,6 +24,7 @@ $ video-crop --help
     -y, --ystart <yItems>       Comma separated y start point values for outputs
     -w, --width <widthItems>    Comma separated width values for outputs
     -h, --height <heightItems>  Comma separated hiehgt values for outputs
+    -f, --fps <fps>             Frames per second for output video
     -h, --help                  output usage information
 
 ```
